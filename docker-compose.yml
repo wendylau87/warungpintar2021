@@ -1,0 +1,7 @@
+version: "3"
+services:
+  wpmastersvc:
+    container_name: "wp-master-svc"
+    build: ./mastersvc
+    ports:
+      - "8090:8090"

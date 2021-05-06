@@ -1,0 +1,6 @@
+build/*
+mastersvc/log/*.log
+.vscode/
+.DS_Store
+.idea/
+*.out
