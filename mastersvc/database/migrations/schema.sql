@@ -1,5 +1,5 @@
 CREATE DATABASE wp_master;
-
+USE wp_master;
 CREATE TABLE IF NOT EXISTS `item` (
     `id` int NOT NULL AUTO_INCREMENT,
     `name` varchar(255) NOT NULL,
