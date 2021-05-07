@@ -1,0 +1,214 @@
+2021/05/06 00:01:46 Logger initialized...
+2021/05/06 00:01:46 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:04:04 Logger initialized...
+2021/05/06 00:04:04 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:06:35 [::1]:36484 GET /user
+2021/05/06 00:06:35 [::1]:36486 GET /user
+2021/05/06 00:06:35 [::1]:36488 GET /user
+2021/05/06 00:06:36 [::1]:36490 GET /user
+2021/05/06 00:06:36 [::1]:36492 GET /user
+2021/05/06 00:06:36 [::1]:36494 GET /user
+2021/05/06 00:06:38 [::1]:36496 GET /users
+2021/05/06 00:06:38 [::1]:36498 GET /users
+2021/05/06 00:06:38 [::1]:36500 GET /users
+2021/05/06 00:06:39 [::1]:36502 GET /users
+2021/05/06 00:06:39 [::1]:36504 GET /users
+2021/05/06 00:06:39 [::1]:36506 GET /users
+2021/05/06 00:06:44 [::1]:36508 GET /users
+2021/05/06 00:06:44 [::1]:36510 GET /users
+2021/05/06 00:06:44 [::1]:36512 GET /users
+2021/05/06 00:07:14 [::1]:36514 GET /users
+2021/05/06 00:07:14 [::1]:36516 GET /users
+2021/05/06 00:07:14 [::1]:36518 GET /users
+2021/05/06 00:08:17 [::1]:36520 GET /users
+2021/05/06 00:08:17 [::1]:36522 GET /users
+2021/05/06 00:08:17 [::1]:36524 GET /users
+2021/05/06 00:08:18 [::1]:36526 GET /users
+2021/05/06 00:08:18 [::1]:36528 GET /users
+2021/05/06 00:08:18 [::1]:36530 GET /users
+2021/05/06 00:08:23 [::1]:36532 GET /users
+2021/05/06 00:08:23 [::1]:36534 GET /users
+2021/05/06 00:08:23 [::1]:36536 GET /users
+2021/05/06 00:08:53 [::1]:36538 GET /users
+2021/05/06 00:08:53 [::1]:36540 GET /users
+2021/05/06 00:08:53 [::1]:36542 GET /users
+2021/05/06 00:09:02 Logger initialized...
+2021/05/06 00:09:02 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:09:06 Logger initialized...
+2021/05/06 00:09:06 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:09:30 [::1]:36548 GET /users
+2021/05/06 00:09:30 WendyKeren
+2021/05/06 00:09:30 [::1]:36550 GET /users
+2021/05/06 00:09:30 WendyKeren
+2021/05/06 00:09:30 [::1]:36552 GET /users
+2021/05/06 00:09:30 WendyKeren
+2021/05/06 00:10:32 Logger initialized...
+2021/05/06 00:10:32 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:10:32 [::1]:36556 GET /users
+2021/05/06 00:10:32 WendyKeren
+2021/05/06 00:10:35 [::1]:36558 GET /users
+2021/05/06 00:10:35 WendyKeren
+2021/05/06 00:10:35 [::1]:36560 GET /users
+2021/05/06 00:10:35 WendyKeren
+2021/05/06 00:10:35 [::1]:36562 GET /users
+2021/05/06 00:10:35 WendyKeren
+2021/05/06 00:15:23 Logger initialized...
+2021/05/06 00:15:23 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:15:26 [::1]:36566 GET /users
+2021/05/06 00:15:26 INI DI REST
+2021/05/06 00:15:26 [::1]:36568 GET /users
+2021/05/06 00:15:26 INI DI REST
+2021/05/06 00:15:26 [::1]:36570 GET /users
+2021/05/06 00:15:26 INI DI REST
+2021/05/06 00:15:52 Logger initialized...
+2021/05/06 00:15:52 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:16:18 [::1]:36574 GET /users
+2021/05/06 00:16:18 INI DI REST
+2021/05/06 00:16:18 [::1]:36576 GET /users
+2021/05/06 00:16:18 INI DI REST
+2021/05/06 00:16:18 [::1]:36578 GET /users
+2021/05/06 00:16:18 INI DI REST
+2021/05/06 00:17:02 [::1]:36580 GET /users
+2021/05/06 00:17:02 INI DI REST
+2021/05/06 00:17:02 [::1]:36582 GET /users
+2021/05/06 00:17:02 INI DI REST
+2021/05/06 00:17:02 [::1]:36584 GET /users
+2021/05/06 00:17:02 INI DI REST
+2021/05/06 00:22:02 [::1]:36586 GET /users
+2021/05/06 00:22:02 INI DI REST
+2021/05/06 00:22:02 [::1]:36588 GET /users
+2021/05/06 00:22:02 INI DI REST
+2021/05/06 00:22:02 [::1]:36590 GET /users
+2021/05/06 00:22:02 INI DI REST
+2021/05/06 00:30:56 Logger initialized...
+2021/05/06 00:30:56 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:31:03 [::1]:36596 GET /users
+2021/05/06 00:31:03 INI DI REST
+2021/05/06 00:31:03 OI INI DAH DI USECASE
+2021/05/06 00:31:03 [::1]:36594 GET /users
+2021/05/06 00:31:03 INI DI REST
+2021/05/06 00:31:03 OI INI DAH DI USECASE
+2021/05/06 00:31:03 [::1]:36598 GET /users
+2021/05/06 00:31:03 INI DI REST
+2021/05/06 00:31:03 OI INI DAH DI USECASE
+2021/05/06 00:39:46 Logger initialized...
+2021/05/06 00:39:46 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 00:39:49 [::1]:36602 GET /users
+2021/05/06 00:39:49 INI DI REST
+2021/05/06 00:39:49 OI INI DAH DI USECASE
+2021/05/06 00:39:49 [::1]:36604 GET /users
+2021/05/06 00:39:49 INI DI REST
+2021/05/06 00:39:49 OI INI DAH DI USECASE
+2021/05/06 00:39:49 [::1]:36606 GET /users
+2021/05/06 00:39:49 INI DI REST
+2021/05/06 00:39:49 OI INI DAH DI USECASE
+2021/05/06 00:49:49 [::1]:36608 GET /users
+2021/05/06 00:49:49 INI DI REST
+2021/05/06 00:49:49 OI INI DAH DI USECASE
+2021/05/06 00:49:49 [::1]:36610 GET /users
+2021/05/06 00:49:49 INI DI REST
+2021/05/06 00:49:49 OI INI DAH DI USECASE
+2021/05/06 00:49:49 [::1]:36612 GET /users
+2021/05/06 00:49:49 INI DI REST
+2021/05/06 00:49:49 OI INI DAH DI USECASE
+2021/05/06 01:19:49 [::1]:36616 GET /users
+2021/05/06 01:19:49 INI DI REST
+2021/05/06 01:19:49 OI INI DAH DI USECASE
+2021/05/06 01:19:49 [::1]:36614 GET /users
+2021/05/06 01:19:49 INI DI REST
+2021/05/06 01:19:49 OI INI DAH DI USECASE
+2021/05/06 01:19:49 [::1]:36618 GET /users
+2021/05/06 01:19:49 INI DI REST
+2021/05/06 01:19:49 OI INI DAH DI USECASE
+2021/05/06 18:03:57 Logger initialized...
+2021/05/06 18:03:57 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 18:58:38 Logger initialized...
+2021/05/06 18:58:38 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:00:33 Logger initialized...
+2021/05/06 19:00:33 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:00:38 [::1]:36730 GET /items
+2021/05/06 19:00:38 INI DI REST
+2021/05/06 19:00:38 NGACO LAH INI
+2021/05/06 19:02:45 Logger initialized...
+2021/05/06 19:02:45 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:02:49 [::1]:36736 GET /items
+2021/05/06 19:06:46 Logger initialized...
+2021/05/06 19:06:46 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:06:54 [::1]:36742 GET /items
+2021/05/06 19:06:57 [::1]:36742 GET /items
+2021/05/06 19:06:58 [::1]:36742 GET /items
+2021/05/06 19:06:59 [::1]:36742 GET /items
+2021/05/06 19:06:59 [::1]:36742 GET /items
+2021/05/06 19:07:00 [::1]:36742 GET /items
+2021/05/06 19:08:16 Logger initialized...
+2021/05/06 19:08:16 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:08:22 [::1]:36748 GET /items
+2021/05/06 19:11:12 Logger initialized...
+2021/05/06 19:11:12 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:11:20 [::1]:36754 GET /items
+2021/05/06 19:14:31 Logger initialized...
+2021/05/06 19:14:31 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:17:31 Logger initialized...
+2021/05/06 19:17:31 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 19:18:10 [::1]:36764 POST /item
+2021/05/06 20:07:14 Logger initialized...
+2021/05/06 20:07:14 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 20:07:27 [::1]:36770 POST /item
+2021/05/06 20:12:15 Logger initialized...
+2021/05/06 20:12:15 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 20:12:26 [::1]:36776 POST /item
+2021/05/06 20:12:26 Json Item : {"id":0,"name":"Hajar Jahanam","total":null}
+2021/05/06 20:13:43 Logger initialized...
+2021/05/06 20:13:43 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 20:13:46 [::1]:36782 POST /item
+2021/05/06 20:13:46 Json Item : {"id":7,"name":"Hajar Jahanam","total":null}
+2021/05/06 20:15:40 Logger initialized...
+2021/05/06 20:15:40 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 20:15:44 [::1]:36788 POST /item
+2021/05/06 20:15:44 Json Item : {"id":8,"name":"Hajar Jahanam","total":null}
+2021/05/06 20:25:45 Logger initialized...
+2021/05/06 20:25:45 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/06 20:25:53 [::1]:36874 GET /items
+2021/05/06 20:37:16 Logger initialized...
+2021/05/06 20:37:16 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:16:38 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:18:25 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:18:36 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:22:57 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:27:08 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:27:54 Logger initialized...
+2021/05/07 01:27:54 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:33:01 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:34:39 Logger initialized...
+2021/05/07 01:34:39 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_master
+2021/05/07 01:34:44 [::1]:37614 GET /items
+2021/05/07 02:24:39 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 02:25:57 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 02:28:53 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 02:59:38 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:01:32 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:02:55 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:07:55 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:07:55 {"id":0,"po_number":"34aa8d2a-6a47-4863-96e2-be92f85b9a62","name":"2021-05-07T03:07:55.16011+07:00","details":[]}
+2021/05/07 03:16:07 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:16:07 {"po_number":"81b5437f-283c-465f-b37a-9b00e29372ca","details":[{"item_id":2,"quantity":20}]}
+2021/05/07 03:17:08 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:17:08 []
+2021/05/07 03:17:55 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:17:55 null
+2021/05/07 03:18:30 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:18:30 [{"id":0,"name":0,"item_id":2,"quantity":20}]
+2021/05/07 03:23:31 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:24:09 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:25:44 Logger initialized...
+2021/05/07 03:25:44 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:28:19 [::1]:53118 POST /inbound
+2021/05/07 03:29:25 Logger initialized...
+2021/05/07 03:29:25 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:29:35 [::1]:53124 POST /inbound
+2021/05/07 03:35:22 Logger initialized...
+2021/05/07 03:35:22 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:35:26 [::1]:53130 POST /inbound
+2021/05/07 03:35:54 Logger initialized...
+2021/05/07 03:35:54 Database connected... root:admin@tcp(172.28.51.224:3306)/wp_transaction
+2021/05/07 03:35:58 [::1]:53136 POST /inbound

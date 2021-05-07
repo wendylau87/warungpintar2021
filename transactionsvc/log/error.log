@@ -1,0 +1,16 @@
+2021/05/05 23:41:45 open .env: no such file or directory
+2021/05/05 23:41:45 invalid argument
+2021/05/05 23:41:45 sql: unknown driver "" (forgotten import?)
+2021/05/05 23:42:23 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/05 23:45:00 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/05 23:45:23 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 19:00:38 sql: Scan error on column index 2, name "total": converting NULL to int is unsupported

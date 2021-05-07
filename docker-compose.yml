@@ -5,3 +5,8 @@ services:
     build: ./mastersvc
     ports:
       - "8090:8090"
+  wptransactionsvc:
+    container_name: "wp-transaction-svc"
+    build: ./transactionsvc
+    ports:
+      - "8091:8091"
