@@ -4,3 +4,4 @@ launch.json
 /app/log/*
 !/app/log/.gitkeep
 .vscode/
+app

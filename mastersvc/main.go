@@ -16,7 +16,9 @@ func main() {
 	sqlHandler, err := sqlhandler.NewSQLHandler(*logger)
 	if err != nil {
 		logger.LogError("%s", err)
+		panic(err)
 	}
-
 	infrastructure.Dispatch(*logger, sqlHandler)
+
+
 }
