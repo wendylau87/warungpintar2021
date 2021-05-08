@@ -1,8 +1,11 @@
 package inbound
 
 import (
+	"encoding/json"
 	"errors"
 	"github.com/wendylau87/warungpintar2021/transactionsvc/entities"
+	"os"
+	"strconv"
 	"time"
 )
 
@@ -28,10 +31,11 @@ func (u *usecase) CreateInbound(v entities.CreateInbound) (entities.Inbound, err
 		return obj, err
 	}
 
-	// CHOREOGRAPHY SAGA TRANSACTION
-	//TODO ADD INVENTORY
+	jsonObj, _ := json.Marshal(obj)
 
-	//TODO UPDATE MASTER
+	// ORCHESTRATION SAGA TRANSACTION
+	partition, _ := strconv.Atoi(os.Getenv("KAFKA_PARTITION"))
+	u.Kafka.Produce(os.Getenv("KAFKA_TOPIC"), partition , string(jsonObj))
 
 	return obj, nil
 }

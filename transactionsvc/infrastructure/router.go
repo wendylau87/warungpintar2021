@@ -3,6 +3,7 @@ package infrastructure
 import (
 	"github.com/wendylau87/warungpintar2021/transactionsvc/controllers"
 	"github.com/wendylau87/warungpintar2021/transactionsvc/domain"
+	"github.com/wendylau87/warungpintar2021/transactionsvc/infrastructure/kafkahandler"
 	"github.com/wendylau87/warungpintar2021/transactionsvc/infrastructure/logger"
 	"github.com/wendylau87/warungpintar2021/transactionsvc/infrastructure/sqlhandler"
 	"github.com/wendylau87/warungpintar2021/transactionsvc/usecases"
@@ -12,10 +13,9 @@ import (
 	"github.com/go-chi/chi"
 )
 
-// Dispatch is handle routing
-func Dispatch(logger logger.Logger, sqlHandler sqlhandler.SQLHandler) {
+func Dispatch(logger logger.Logger, sqlHandler sqlhandler.SQLHandler, kafkahandler kafkahandler.KafkaHandlerItf) {
 	dom := domain.Init(logger, sqlHandler)
-	uc := usecases.Init(logger, dom)
+	uc := usecases.Init(logger, kafkahandler, dom)
 	inboundController := controllers.InitInboundController(uc,logger)
 
 	r := chi.NewRouter()

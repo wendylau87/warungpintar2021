@@ -10,3 +10,28 @@ services:
     build: ./transactionsvc
     ports:
       - "8091:8091"
+  wpinventorysvc:
+    container_name: "wp-inventory-svc"
+    build: ./inventorysvc
+    ports:
+      - "8092:8092"
+  zookeeper:
+    image: confluentinc/cp-zookeeper:3.0.1
+    ports:
+      - "22181:22181"
+    environment:
+      ZOOKEEPER_SERVER_ID: 1
+      ZOOKEEPER_CLIENT_PORT: 22181
+      ZOOKEEPER_TICK_TIME: 2000
+      ZOOKEEPER_INIT_LIMIT: 5
+      ZOOKEEPER_SYNC_LIMIT: 2
+  kafka:
+    image: confluentinc/cp-kafka:3.0.1
+    ports:
+      - "19092:19092"
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: 172.28.51.224:22181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://172.28.51.224:19092

@@ -14,3 +14,9 @@
 2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
 2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
 2021/05/06 19:00:38 sql: Scan error on column index 2, name "total": converting NULL to int is unsupported
+2021/05/07 17:47:45 failed to dial leader:%!(EXTRA *net.OpError=dial: unknown network )
+2021/05/07 17:50:05 failed to dial leader 172.28.51.224:19092: dial: unknown network 
+2021/05/07 17:51:11 failed to dial leader 172.28.51.224:19092: dial: unknown network 
+2021/05/07 17:55:41 failed to dial leader 172.28.51.224:9092: dial: unknown network 
+2021/05/07 17:56:52 failed to dial leader localhost:19092: dial: unknown network 
+2021/05/07 17:57:01 failed to connect kafka localhost:19092 because : dial: unknown network 
