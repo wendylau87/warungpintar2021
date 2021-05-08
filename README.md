@@ -1,6 +1,9 @@
 # WarungPintar2021
 https://github.com/wendylau87/warungpintar2021
 
+##Summary
+this microservices for simulate *orchestration saga transaction*
+
 ## Prequisites
 - MySQL Database
 - Postman
