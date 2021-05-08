@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "8f42d2b9-5c22-4f4b-8d98-000ef909e9e9",
+		"name": "WarungPintar2021",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "mastersvc - Add Item",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"name\":\"Hajar Jahanam\"}"
+				},
+				"url": {
+					"raw": "http://localhost:8090/item",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"item"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "mastersvc - List Item",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/items",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"items"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "transactionsvc - Add inbound",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"po_number\":\"postman-1\",\"details\":[{\"item_id\":2, \"quantity\":10}]}"
+				},
+				"url": {
+					"raw": "http://localhost:8091/inbound",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8091",
+					"path": [
+						"inbound"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "inventorysvc - Add inventory",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"inbound_detail_id\":1,\r\n    \"item_id\":1,\r\n    \"quantity\":10\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8092/inventory",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8092",
+					"path": [
+						"inventory"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
